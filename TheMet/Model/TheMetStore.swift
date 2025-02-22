@@ -12,7 +12,7 @@ extension FileManager {
 	static func sharedContainerURL() -> URL {
 		return FileManager.default.containerURL(
 			forSecurityApplicationGroupIdentifier:
-				"group.com.yourcompany.TheMet.objects"
+				"org.marco.TheMet.TheMetWidgetExtension"
 		)!
 	}
 }

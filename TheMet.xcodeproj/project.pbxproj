@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -267,6 +267,7 @@
 				};
 			};
 			buildConfigurationList = 18D775B822AD944300AE281E /* Build configuration list for PBXProject "TheMet" */;
+			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -274,7 +275,6 @@
 				Base,
 			);
 			mainGroup = 18D775B422AD944300AE281E;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 18D775BE22AD944300AE281E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -563,10 +563,10 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = W5MFPM65T9;
+				DEVELOPMENT_TEAM = 2S3V74AK8M;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TheMetWidget/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = TheMetWidget;
+				INFOPLIST_KEY_CFBundleDisplayName = TheMet;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2023 Kodeco. All rights reserved.";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -575,7 +575,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.TheMet.TheMetWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = org.marco.TheMet.TheMetWidgetExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -595,10 +595,10 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = W5MFPM65T9;
+				DEVELOPMENT_TEAM = 2S3V74AK8M;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TheMetWidget/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = TheMetWidget;
+				INFOPLIST_KEY_CFBundleDisplayName = TheMet;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2023 Kodeco. All rights reserved.";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -607,7 +607,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.TheMet.TheMetWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = org.marco.TheMet.TheMetWidgetExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
